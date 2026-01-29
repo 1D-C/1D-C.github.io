@@ -13,6 +13,6 @@ body {
 <p>headshot here(temp)<p/>
        <p>Creative statement here</p>
 <h2>A Reflection on 'In Plato's Cave'</h2></body></html>
-<p><a href="http://www.htmldog.com">HTML Dog</a></p>
+ <p><a href="http://www.htmldog.com">HTML Dog</a></p>
 
 <p style="color: red">/* use any hex, rgb(), or color name */ /* adjust text color for contrast */</p>
