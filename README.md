@@ -1,7 +1,9 @@
 # Darian-Carrillo.giithub.com
 <html>
-<h1>    color: #ffc;
-    background-color: #009;</h1>
+body {
+  background-color: #f4f4f4; 
+  color: #222;              
+}
   
   <head>
     <title>My first web page</title>
@@ -13,4 +15,4 @@
 <h2>A Reflection on 'In Plato's Cave'</h2></body></html>
 <p><a href="http://www.htmldog.com">HTML Dog</a></p>
 
-<p style="color: red">text</p>
+<p style="color: red">/* use any hex, rgb(), or color name */ /* adjust text color for contrast */</p>
