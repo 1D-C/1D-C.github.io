@@ -10,5 +10,5 @@
 <h2>A Reflection on 'In Plato's Cave'</h2></body></html>
 <br>
 <h2>Pictures</h2>
- <a href="./subpages/picture1.md">Go to Picture one</a>
+ <a href="./subpages/picture1.md">Go to Picture one</a> <br>
  <a href="./subpages/picture2.md">Go to Picture two</a>
