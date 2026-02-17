@@ -8,6 +8,6 @@
   <img src="edited-photo.png" alt="Skybridge" style="width:300px;height:200px;">
 <p> When i first saw it originally </p>
 
- <a href="../README.md">Back to Home</a>
+<p><a href="../README.md">Back to Home</a></p>
 </body>
 </html>
