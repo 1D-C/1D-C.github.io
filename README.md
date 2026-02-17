@@ -12,4 +12,3 @@
 <h2>Pictures</h2>
  <a href="./subpages/picture1.md">Go to Picture one</a> <br>
  <a href="./subpages/picture2.md">Go to Picture two</a>
- <a href="./subpages/h.html">Go to test page</a> <br>
