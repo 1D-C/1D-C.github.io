@@ -1,6 +1,6 @@
 body {
     font-size: 14px;
-    color: #9C9BE0;
+    color: #000000;
 }
 p {
     letter-spacing: 0;
@@ -9,8 +9,8 @@ p {
     text-align: center;
 }
 h1 {
-    color: #ffc;
-    background-color: #900;
+    color: #D0F0FF;
+    background-color: #6BAABB;
     font-size: 2em;
     margin: 0;
     margin-bottom: 7px;
