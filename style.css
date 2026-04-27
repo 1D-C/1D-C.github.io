@@ -1,17 +1,20 @@
-   body {cursor: url('jellyfish-cursor-peaceful.png'), pointer;}
-a:hover {
-    cursor: url('jellyfish-cursor-hover.png'), pointer;
-
 body {
+    cursor: url('jellyfish-cursor-peaceful.png'), pointer;
     font-size: 14px;
     color: #000000;
 }
+
+a:hover {
+    cursor: url('jellyfish-cursor-hover.png'), pointer;
+}
+
 p {
     letter-spacing: 0;
     word-spacing: 1px;
     line-height: 1.5;
     text-align: center;
 }
+
 h1 {
     color: #D0F0FF;
     background-color: #6BAABB;
@@ -22,7 +25,5 @@ h1 {
     font-style: italic;
     text-align: center;
     letter-spacing: 0.5em;
-    border-bottom-style: solid;
-    border-bottom-width: 0.5em;
-    border-bottom-color: #c00;
+    border-bottom: 0.5em solid #c00;
 }
