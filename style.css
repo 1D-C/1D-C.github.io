@@ -1,4 +1,6 @@
    body {cursor: url('jellyfish-cursor-peaceful.png'), pointer;}
+a:hover {
+    cursor: url('jellyfish-cursor-hover.png'), pointer;
 
 body {
     font-size: 14px;
